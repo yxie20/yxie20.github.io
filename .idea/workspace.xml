@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66c61fb0-7e80-4c69-a061-ad356951f521" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_pages/failure cv.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_bibliography/papers.bib" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/coauthors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/coauthors.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/dropdown.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/projects.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/teaching.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/service_leadership.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/deploy" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deploy" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,10 +33,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/bin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_pages" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu\home\yxie20\personal_website\_pages" />
       <recent name="\\wsl$\Ubuntu\home\yxie20\personal_website\bin" />
     </key>
   </component>
@@ -49,9 +55,17 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="653" y="251" width="744" height="606" key="find.popup" timestamp="1637000331998">
+    <state x="415" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1637001783386">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="653" y="251" width="744" height="606" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1637000331998" />
+    <state x="415" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1637001783386" />
+    <state x="653" y="251" width="744" height="606" key="find.popup" timestamp="1637003157210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="653" y="251" width="744" height="606" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1637003157210" />
+    <state x="623" y="226" width="672" height="678" key="search.everywhere.popup" timestamp="1637003727379">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="226" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1637003727379" />
   </component>
 </project>
