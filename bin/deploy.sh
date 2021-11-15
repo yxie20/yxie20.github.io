@@ -18,8 +18,8 @@ while [[ $# > 0 ]]; do
         exit 0
         ;;
         -u|--user)
-        SRC_BRANCH="source"
-        DEPLOY_BRANCH="main"
+        SRC_BRANCH="main"
+        DEPLOY_BRANCH="gh-pages"
         ;;
         -s|--src)
         SRC_BRANCH="$2"
