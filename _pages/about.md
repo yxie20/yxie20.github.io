@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: 
 
 profile:
   align: right
@@ -18,9 +18,13 @@ news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a final-year undergraduate student at Brown University.
-#Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a final-year undergraduate student at Brown University, currently applying to PhD programs for Fall 2022. 
+My research interests include 3D computer vision, robotics & control, machine learning, and sustainable energy.
 
-#Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-#Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a researcher at [Unity Technologies](https://unity.com/solutions/digital-twin) since June 2020, 
+building industry-leading 3D reconstruction solutions. I am also spearheading research projects at 
+[Brown Visual Computing](https://visual.cs.brown.edu/), advised by Professor [Srinath Sridhar](https://cs.brown.edu/people/ssrinath/). 
+Previously, I worked with Professor [Michael Littman](https://www.littmania.com/) for the past 2.5 years at 
+[Human-Centered Robotics Initiative](https://hcri.brown.edu/), focusing on sample-efficient learning, and human-centered robotics. 
+Finally, I am a part-time cloud developer at [Ethos Hub](https://www.ethoshub.org/), a non-profit funded by AWS, 
+using data science to accelerate Rhode Island's sustainable energy transition.

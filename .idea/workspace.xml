@@ -4,7 +4,9 @@
     <list default="true" id="66c61fb0-7e80-4c69-a061-ad356951f521" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_bibliography/papers.bib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/example_pdf.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/coauthors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/coauthors.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/deploy" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deploy" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,9 +49,9 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="653" y="251" width="744" height="606" key="find.popup" timestamp="1636934072936">
+    <state x="653" y="251" width="744" height="606" key="find.popup" timestamp="1637000331998">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="653" y="251" width="744" height="606" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1636934072936" />
+    <state x="653" y="251" width="744" height="606" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1637000331998" />
   </component>
 </project>
