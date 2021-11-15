@@ -9,6 +9,8 @@ nav: true
 
 ### Avon Smart Helmet
 Nice souped up [website](https://avonsmarthelmet.wixsite.com/website)
+![alt text](https://yxie20.github.io/assets/images/sail1)
+
 
 ### Smart Lower School Chicken Coop
 
