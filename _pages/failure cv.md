@@ -7,9 +7,11 @@ description: Major fiascos. I think you learn more about someone from how they f
 nav: true
 ---
 
+<img style="float: right;" src="https://yxie20.github.io/assets/img/fiasco.jpg">
+
 ### Avon Smart Helmet
 Nice souped up [website](https://avonsmarthelmet.wixsite.com/website)
-![alt text](https://yxie20.github.io/assets/images/sail1)
+
 
 
 ### Smart Lower School Chicken Coop

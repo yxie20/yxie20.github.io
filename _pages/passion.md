@@ -11,7 +11,6 @@ nav: true
 Line cook
 
 
-If you can't reach me, try finding me here
+If you can't reach me, check here:
 
-![alt text](https://yxie20.github.io/assets/images/sail1)
-
+![alt text](https://yxie20.github.io/assets/img/findme.jpg)
