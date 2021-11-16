@@ -6,11 +6,14 @@ permalink:
 description: Hobbies, interests, quirks and features.
 nav: true
 ---
+Besides being a student and researcher, 
+## I am also...
+a sailor, runner, hiker, cyclist, bike mechanic, cafeteria line cook, vegetarian 
+(who cheats too often), tofu fanatic, climate warrior (check my thermostat), 
+car enthusiast, pianist, accompanist...
 
 
-Line cook
-
-
-If you can't reach me, check here:
-
-<img style="float: middle;" width="300" src="https://yxie20.github.io/assets/img/findme.png">
+#### If not found, try here:
+<p align="center">
+<img style="float: middle;" width="800" src="https://yxie20.github.io/assets/img/findme.png">
+<p/>
