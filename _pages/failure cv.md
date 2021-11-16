@@ -2,7 +2,7 @@
 order_id: 9
 layout: page
 title: Failure CV
-permalink: 
+permalink: /failure_cv/
 description: 
 nav: true
 ---

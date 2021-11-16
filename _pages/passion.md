@@ -1,8 +1,8 @@
 ---
 order_id: 10
 layout: page
-title: Nutrition Info
-permalink: 
+title: Nutrition Facts
+permalink: /nutrition_facts/
 description: Hobbies, interests, quirks and features.
 nav: true
 ---

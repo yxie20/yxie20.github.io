@@ -2,7 +2,7 @@
 order_id: 6
 layout: page
 title: Service & Leadership
-permalink: 
+permalink: /serve_lead/
 description: Doing something good everyday.
 nav: true
 ---
