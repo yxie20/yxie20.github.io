@@ -13,7 +13,7 @@ of Professor [Micahel Littman](https://www.littmania.com/) at Brown
 [Human-Centered Robotics Initiative](https://hcri.brown.edu/) and implemented our research group's paper 
 [Teaching a Robot Tasks of Arbitrary Complexity via Human Feedback](https://dl.acm.org/doi/abs/10.1145/3319502.3374824)
 on a real-world robotic agent, [Kuri](https://www.heykuri.com/explore-kuri/). 
-Our agent can learn tasks of arbitrary complexity via only natural language feedback:
+Our agent can learn tasks of arbitrary complexity via natural language feedback only:
 ```
 This paper addresses the problem of training a robot to carry out temporal tasks of arbitrary 
 complexity via evaluative human feedback that can be inaccurate. A key idea explored in our 

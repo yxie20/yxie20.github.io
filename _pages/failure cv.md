@@ -10,7 +10,7 @@ nav: true
 <img style="float: right; padding-left:40px;" width="320" src="https://yxie20.github.io/assets/img/fiasco.jpg">
 ## Oops! 
 We all fail from time to time. I think you learn more about someone from how they failed 
-rather than how they succeeded. Plus, you may find some of them entertaining, so here are 
+rather than how they succeeded. Plus, you may find some of my bloopers entertaining. So, here are 
 my major fiascos:
 
 #### Avon Smart Helmet
