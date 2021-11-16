@@ -21,4 +21,4 @@ Graph Neural Network components in our world model, so as to achieve with interp
 
 
 Unsupervised and object-centric segmentation and clustering:
-<img style="float: right;" src="https://yxie20.github.io/assets/img/rw.gif">
+<img src="https://yxie20.github.io/assets/img/rw.gif">
