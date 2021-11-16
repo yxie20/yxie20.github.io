@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Brown IMNI
+title: Brown LEHN
 description: Investigated mechanical properties of 2D nano-material via computer vision.
 img: assets/img/shear.png
 importance: 300
