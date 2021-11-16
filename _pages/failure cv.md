@@ -25,7 +25,7 @@ Of course, the now senior is still no billionaire today. But one day it will hap
 
 <p align="center">
 <img width="240" src="https://yxie20.github.io/assets/img/helmet.png">
-<br/> A beautiful, dysfunctional helmet that doesn't do anything.
+<br/> A beautiful, dysfunctional helmet.
 </p>
 
 #### Smart Lower School Chicken Coop

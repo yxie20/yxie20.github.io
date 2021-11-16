@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66c61fb0-7e80-4c69-a061-ad356951f521" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_projects/shear.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_projects/unity.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/failure cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/failure cv.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/passion.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/passion.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/service_leadership.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/service_leadership.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_projects/ethos.md" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/ethos.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_projects/learnable.md" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/learnable.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/DSC_4684.jpg:Zone.Identifier" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/DSC_4687.jpg:Zone.Identifier" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/IMG_4789.jpg:Zone.Identifier" beforeDir="false" />
@@ -62,9 +67,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="653" y="251" width="744" height="606" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1637026811943" />
-    <state x="625" y="228" width="672" height="678" key="search.everywhere.popup" timestamp="1637032134575">
+    <state x="626" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1637033003138">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="625" y="228" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1637032134575" />
+    <state x="626" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1637033003138" />
   </component>
 </project>
