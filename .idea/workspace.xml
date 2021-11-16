@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66c61fb0-7e80-4c69-a061-ad356951f521" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_projects/rw.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/failure cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/failure cv.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/passion.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/passion.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/projects.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_projects/kuri.md" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/kuri.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_projects/neural_field.md" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/neural_field.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_projects/vrr.md" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/vrr.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_base.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/kuri.jpg:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/fiasco.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/fiasco.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/~$findme.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/~$findme.pptx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/deploy" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deploy" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
