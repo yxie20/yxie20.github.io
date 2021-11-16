@@ -4,7 +4,7 @@ title: Brown IMNI
 description: Investigated mechanical properties of 2D nano-material via computer vision.
 img: assets/img/shear.png
 importance: 300
-category: 
+category: Research
 ---
 
 **December 2018 - December 2020**
