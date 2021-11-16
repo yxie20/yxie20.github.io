@@ -13,7 +13,7 @@ a sailor, runner, hiker, cyclist, bike mechanic, cafeteria line cook, vegetarian
 car enthusiast, pianist, accompanist...
 
 
-#### If you can find me, try looking here:
+#### If you can't find me, try searching here:
 <p align="center">
 <img style="float: middle;" width="800" src="https://yxie20.github.io/assets/img/findme.png">
 <p/>
