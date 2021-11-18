@@ -26,8 +26,8 @@ I am a researcher at [Unity Technologies](https://unity.com/solutions/digital-tw
 building industry-leading 3D reconstruction solutions. I am also spearheading research projects at 
 [Brown Visual Computing](https://visual.cs.brown.edu/), advised by Professor [Srinath Sridhar](https://cs.brown.edu/people/ssrinath/). 
 Previously, I worked with Professor [Michael Littman](https://www.littmania.com/) for the past 2.5 years at 
-[Human-Centered Robotics Initiative](https://hcri.brown.edu/), focusing on sample-efficient learning, and human-centered robotics. 
-Finally, I am a part-time cloud developer at [Ethos Hub](https://www.ethoshub.org/), a non-profit funded by AWS, 
+[Human-Centered Robotics Initiative](https://hcri.brown.edu/), focusing on human-centered robotics and sample-efficient reinforcement learning. 
+Finally, I am a part-time cloud developer at [Ethos Hub](https://www.ethoshub.org/), a not-for-profit organization funded by AWS, 
 developing data-driven solutions to accelerate Rhode Island's sustainable energy transition.
 
 [CV](https://yxie20.github.io/assets/pdf/cv_yiheng_xie.pdf). 
