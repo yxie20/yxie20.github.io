@@ -1,7 +1,7 @@
 ---
 order_id: 10
 layout: page
-title: Nutrition Facts
+title: Quirks & Features
 permalink: /nutrition_facts/
 description: 
 nav: true
