@@ -3,7 +3,7 @@ order_id: 10
 layout: page
 title: Nutrition Facts
 permalink: /nutrition_facts/
-description: Hobbies, interests, quirks and features.
+description: 
 nav: true
 ---
 Besides being a student and researcher, 

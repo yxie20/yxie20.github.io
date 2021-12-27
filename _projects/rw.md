@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Object-Oriented Latent Dynamics Graph
-description: Vision-based RL agent with an object-centric world model.
+description: Vision-based RL agent with an object-centric world model for ATARI games.
 img: assets/img/rw_pong.png
 importance: 4
 category: Research

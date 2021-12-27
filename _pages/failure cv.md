@@ -45,11 +45,6 @@ We wish them well.
 <br/>Sirapop installing solar panel. Presenting to primary school kids something that would soon break...
 </p>
 
-#### College Applications
-In Spring 2018, Yiheng was rejected from about a dozen universities, including his dream school. 
-We conclude that kids nowadays are just too talented. It also turned out Brown was just the right
-place for him. So it all worked out in the end, again!
-
 
 #### Swimming and Lacrosse
 He proved to have zero talent for these two sports. Over the course of 3 years (2014-2017), he 
@@ -60,18 +55,20 @@ he never scored a single goal in the two (and a half) seasons that he played.
 #### Duckweed Experiments and Biodiesel
 Living true to his passion in renewable energy, Yiheng came up with a master plan on installing a 
 campus bio-diesel reactor, turning our deep fryer oil into bio-diesel and then pumping them into 
-our lawn mowers. Of course, our school's security staff was a big fan of putting 50 gallons of 
+our lawn mowers. Of course, our school's security staff was not a huge fan of putting 50 gallons of 
 flammable liquid into a water heater along with a bunch of electrical components and lye. So the 
 project got shut down before it got started. But Yiheng is resilient, he then devised a plan to 
-harvest the annual duckweed bloom (similar to algal bloom) at our local ponds, and turning the starch
-into bio-ethanol. Yum, brewing duckweed wine. That project also ended up going nowhere. 
-We do have a few freezer bags full of duckweed, if you'd like to give it a try!
+harvest the annual duckweed bloom at our local ponds, and turning the it into bio-ethanol. Yum, 
+brewing duckweed wine. We do have a few freezer bags full of duckweed, if you'd like to give it a try!
 
 
-#### High School Applications
-2014 was the year when Yiheng moved to the US to study. But before then, he was rejected to all but 
+#### High School and College Apps
+Yiheng moved to the US in 2014 as a 9-th grader. But before then, he was rejected to all but 
 one high school. Whew, that was a bit scary. But he had a blast living and studying in rural 
 Pennsylvania for 4 years. It always works out.
 
+Again in 2018, Yiheng was rejected from about a dozen universities, including his dream school. 
+We conclude that kids nowadays are just too talented. It also turned out Brown was just the right
+place for him. So it all worked out in the end again!
 
 You know what? I'm excited to add more to this list as I go out there and embarrass myself again.
