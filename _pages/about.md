@@ -19,16 +19,17 @@ news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a final-year undergraduate student at [Brown University](https://www.brown.edu/), currently applying to PhD programs for Fall 2022. 
-My research interests include machine learning, computer vision, and energy systems.
+I am a final-year undergraduate student at [Brown University](https://www.brown.edu/), and an incoming PhD candidate in Fall 2023.
+My research interests lie the control, modeling, and optimization of sustianable energy systems.
 
-I am a researcher at [Unity Technologies](https://unity.com/solutions/digital-twin) 
-building industry-leading 3D reconstruction solutions since June 2020. I am spearheading research projects at 
-[Brown Visual Computing](https://visual.cs.brown.edu/), advised by Professor [Srinath Sridhar](https://cs.brown.edu/people/ssrinath/). 
+I am a part-time cloud developer at [AWS Ethos Hub](https://www.ethoshub.org/), a not-for-profit organization, 
+developing data-driven solutions to accelerate Rhode Island's sustainable energy transition. 
 Previously, I worked with Professor [Michael Littman](https://www.littmania.com/) for three years at 
 [Human-Centered Robotics Initiative](https://hcri.brown.edu/) focusing on sample-efficient reinforcement learning. 
-Finally, I am a part-time cloud developer at [AWS Ethos Hub](https://www.ethoshub.org/), a not-for-profit organization, 
-developing data-driven solutions to accelerate Rhode Island's sustainable energy transition.
+At [Brown Visual Computing](https://visual.cs.brown.edu/), I spearheaded the review project: [Neural Fields in Viusal Computing](https://neuralfields.cs.brown.edu/). 
+<!--- You can find our 90-minute presentation at  Eurographics here, and our CVPR 2022 tutorial here. -->
+Prior, I was a researcher at [Unity Technologies](https://unity.com/solutions/digital-twin) for two years, 
+building industry-leading 3D reconstruction solutions. 
 
 [CV](https://yxie20.github.io/assets/pdf/cv_yiheng_xie.pdf). 
 [Resume](https://yxie20.github.io/assets/pdf/resume_yiheng_xie.pdf). 
