@@ -20,9 +20,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 I am a final-year undergraduate student at [Brown University](https://www.brown.edu/), and an incoming PhD candidate in Fall 2023.
-My research interests lie the control, modeling, and optimization of sustianable energy systems.
+I am interested in the control, modeling, and optimization of energy systems.
 
-I am a part-time cloud developer at [AWS Ethos Hub](https://www.ethoshub.org/), a not-for-profit organization, 
+I am currently a cloud developer at [AWS Ethos Hub](https://www.ethoshub.org/), a not-for-profit organization, 
 developing data-driven solutions to accelerate Rhode Island's sustainable energy transition. 
 Previously, I worked with Professor [Michael Littman](https://www.littmania.com/) for three years at 
 [Human-Centered Robotics Initiative](https://hcri.brown.edu/) focusing on sample-efficient reinforcement learning. 
