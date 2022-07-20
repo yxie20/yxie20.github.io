@@ -2,7 +2,7 @@
 layout: page
 title: Learnable.ai
 description: Machine Learning intern at a Boston startup, natural language processing (NLP).
-img: assets/img/learnable.png
+img: assets/img/project_imgs/learnable.png
 importance: 3
 category: Industry
 ---
