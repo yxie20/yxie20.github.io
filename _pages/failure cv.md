@@ -37,9 +37,9 @@ the door jammed. Sincere apologies for the poor hen still living there at the Cl
 We wish them well.
 
 <p align="center">
-<img width="240" src="https://yxie20.github.io/assets/failurecv/img/coop.jpg">
-<img width="240" src="https://yxie20.github.io/assets/failurecv/img/coopkid1.jpg">
-<img width="240" src="https://yxie20.github.io/assets/failurecv/img/coopkid2.jpg">
+<img width="240" src="https://yxie20.github.io/assets/img/failurecv/coop.jpg">
+<img width="240" src="https://yxie20.github.io/assets/img/failurecv/coopkid1.jpg">
+<img width="240" src="https://yxie20.github.io/assets/img/failurecv/coopkid2.jpg">
 <br/>Sirapop installing solar panel. Presenting to primary school kids something that would soon break...
 </p>
 
