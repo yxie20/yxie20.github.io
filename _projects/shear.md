@@ -2,7 +2,7 @@
 layout: page
 title: Superfund Research Group
 description: Investigated mechanical properties of 2D nano-material via computer vision.
-img: assets/img/shear.png
+img: assets/img/project_imgs/shear.png
 importance: 300
 category: Research
 ---

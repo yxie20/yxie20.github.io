@@ -2,7 +2,7 @@
 layout: page
 title: Brown HCRI
 description: Implemented a our group's previous paper on a real-world agent (Kuri).
-img: assets/img/kuri.jpg
+img: assets/img/project_imgs/kuri.jpg
 importance: 3
 category: Research
 ---
@@ -32,8 +32,8 @@ the work remained unpublished.
 
 Experiment setup:  
 
-<img src="https://yxie20.github.io/assets/img/kuri_lab.png" width="300">
+<img src="https://yxie20.github.io/assets/img/project_imgs/kuri_lab.png" width="300">
 
 Kuri's world (SLAM):
 
-<img src="https://yxie20.github.io/assets/img/kuri_map.jpg" width="300">
+<img src="https://yxie20.github.io/assets/img/project_imgs/kuri_map.jpg" width="300">

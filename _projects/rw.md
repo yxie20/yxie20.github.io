@@ -2,7 +2,7 @@
 layout: page
 title: Object-Oriented Latent Dynamics Graph
 description: Vision-based RL agent with an object-centric world model for ATARI games.
-img: assets/img/rw_pong.png
+img: assets/img/project_imgs/rw_pong.png
 importance: 4
 category: Research
 ---
@@ -21,4 +21,4 @@ Graph Neural Network components in our world model, so as to achieve with interp
 
 
 Unsupervised and object-centric segmentation and clustering:
-<img src="https://yxie20.github.io/assets/img/rw.gif">
+<img src="https://yxie20.github.io/assets/img/project_imgs/rw.gif">

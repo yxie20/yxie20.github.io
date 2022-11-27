@@ -2,7 +2,7 @@
 layout: page
 title: Ethos Hub
 description: Cloud Developer, accelerating the sustainable energy transition with data-driven methods.
-img: assets/img/ethos.svg
+img: assets/img/project_imgs/ethos.svg
 importance: 2
 category: Industry
 ---
