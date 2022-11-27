@@ -65,8 +65,4 @@ Yiheng moved to the US in 2014 as a 9-th grader. But before then, he was rejecte
 one high school. Whew, that was a bit scary. But he had a blast living and studying in rural 
 Pennsylvania for 4 years. It always works out.
 
-Again in 2018, Yiheng was rejected from about a dozen universities, including his dream school. 
-We conclude that kids nowadays are just too talented. It also turned out Brown was just the right
-place for him. So it all worked out in the end again!
-
 You know what? I'm excited to add more to this list as I go out there and embarrass myself again.
