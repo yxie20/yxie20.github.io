@@ -33,7 +33,7 @@ In Spring 2018, the high school senior was getting too bored after he submitted 
 applications. So he devised a plan to outfit the Lower School Chicken Coop with internet-connected
 gadgets like live-stream cameras, thermometers, and remote door openers. He did make it all happen
 (it was mostly his more capable roommate). **But the project came with no warranty!** The water tank leaked, and 
-the door jammed. Sincere apologies for the poor hen still living there at the Cluckingham Palace. 
+the door jammed. Our sincere apologies for the poor hen still living there at the Cluckingham Palace. 
 We wish them well.
 
 <p align="center">
@@ -46,7 +46,7 @@ We wish them well.
 
 #### Swimming and Lacrosse
 He proved to have zero talent for these two sports. Over the course of 3 years (2014-2017), he 
-remained in Lane 1 (slowest lane) and consistently did not make the JV roster. As for Lacrosse, 
+remained in Lane 1 (i.e. the slowest lane) and consistently did not make the JV roster. As for Lacrosse, 
 he never scored a single goal in the two (and a half) seasons that he played.
 
 
@@ -57,7 +57,8 @@ our lawn mowers. Of course, our school's security staff was not a huge fan of pu
 flammable liquid into a water heater along with a bunch of electrical components and lye. So the 
 project got shut down before it got started. But Yiheng is resilient, he then devised a plan to 
 harvest the annual duckweed bloom at our local ponds, and turning the it into bio-ethanol. Yum, 
-brewing duckweed wine. We do have a few freezer bags full of duckweed, if you'd like to give it a try!
+let's brew some duckweed beer. We might still have a few freezer bags full of duckweed, if you'd 
+like to give it a try!
 
 
 #### Admissions are not my friends

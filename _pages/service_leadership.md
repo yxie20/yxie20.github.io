@@ -7,7 +7,7 @@ description: Doing something good everyday.
 nav: true
 ---
 ### **Westtown School DEI Advisory Board**
-From 2019 - 2021, I served as a alumni board member at my high school's **Diversity, Equity and Inclusion** 
+From 2019 - 2021, I served as an alumni board member at my high school's **Diversity, Equity and Inclusion** 
 committee. Appointed by the Head of School are an advisory board of trustees, faculty members 
 and alumni, we formulated policies and initiatives on diversity, equity and inclusion at my alma mater.
 
