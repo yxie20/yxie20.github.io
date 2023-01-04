@@ -9,15 +9,16 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
+    <p>Caltech<\p>
     <p>Brown University<\p>
     <p>B.Sc. Computer Engineering<\p>
-    <p><a href = "mailto: yiheng_xie@brown.edu">yiheng_xie@brown.edu</a></p>
+    <p><a href = "mailto: yxie(number_five)@caltech.edu">yxie(number_five)@caltech.edu</a></p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am an incoming PhD student at Caltech CMS, advised by [Steven Low](https://ee.caltech.edu/people/slow) and [Adam Wierman](https://adamwierman.com/). My research interests lie in the control, modeling and optimization of energy systems. I am currently on gap year, working in the energy industry before starting my PhD studies in September 2023.
+I am an incoming PhD student at Caltech, advised by [Steven Low](https://ee.caltech.edu/people/slow) and [Adam Wierman](https://adamwierman.com/) in the [Department of Computing and Mathematical Sciences](https://www.cms.caltech.edu/). My research interests lie in the control, modeling and optimization of energy systems. I am currently on gap year, working in the energy industry before starting my PhD studies in September 2023.
 
 I completed my undergraduate studies in Computer Engineering at [Brown University](https://www.brown.edu/). I worked with Professor [Michael Littman](https://www.littmania.com/) for three years at [Human-Centered Robotics Initiative](https://hcri.brown.edu/) focusing on sample-efficient reinforcement learning. At [Brown Visual Computing](https://visual.cs.brown.edu/) research group, I spearheaded the review project: [Neural Fields in Viusal Computing](https://neuralfields.cs.brown.edu/) for CVPR'22 Tutorial and Eurographics'22 STARs.
 
