@@ -20,11 +20,10 @@ social: true  # includes social icons at the bottom of the page
 ---
 I am a first-year PhD student at Caltech, advised by [Steven Low](https://ee.caltech.edu/people/slow) 
 and [Adam Wierman](https://adamwierman.com/) in the [Department of Computing and Mathematical Sciences](https://www.cms.caltech.edu/). 
-My research directions include in the modeling and optimization of energy systems.
+My research focuses the modeling and optimization of energy systems.
 
-I completed my undergraduate studies in Computer Engineering at [Brown University](https://www.brown.edu/), where 
-I worked on topics in robotics, sample-efficient reinforcement learning, and 3D computer vision.
-
+I completed my undergraduate studies in Computer Engineering at Brown University, where 
+I worked on various topics in robotics, sample-efficient reinforcement learning, and 3D computer vision. 
 I have also spent some time in the industry. In 2022, I worked on data-driven solutions to accelerate 
 Rhode Island's sustainable energy transition at [AWS ETHOS Hub](https://www.ethoshub.org/), a 
 not-for-profit organization. I was a researcher at [Unity Technologies](https://unity.com/solutions/digital-twin) 
