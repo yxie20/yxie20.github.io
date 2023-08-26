@@ -8,10 +8,8 @@ nav: true
 ---
 Besides being a student and researcher, 
 ## I am also...
-a sailor, runner, hiker, cyclist, bike mechanic, cafeteria line cook, vegetarian 
-(who cheats too often), tofu fanatic, climate warrior (check my thermostat), 
-car enthusiast, pianist, accompanist...
-
+a sailor, runner, hiker, cyclist & bike mechanic, cafeteria line cook (once upon a time), vegetarian 
+(who cheats too often), climate warrior, car enthusiast, pianist...
 
 ##### If not found, try searching here:
 <p align="center">
