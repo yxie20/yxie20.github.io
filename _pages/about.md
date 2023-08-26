@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 I am a first-year PhD student at Caltech, advised by [Steven Low](https://ee.caltech.edu/people/slow) 
 and [Adam Wierman](https://adamwierman.com/) in the [Department of Computing and Mathematical Sciences](https://www.cms.caltech.edu/). 
-My research focuses the modeling and optimization of energy systems.
+My research focuses on the modeling and optimization of energy systems.
 
 I completed my undergraduate studies in Computer Engineering at Brown University, where 
 I worked on various topics in robotics, sample-efficient reinforcement learning, and 3D computer vision. 
