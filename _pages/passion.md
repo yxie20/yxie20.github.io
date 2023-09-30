@@ -17,7 +17,7 @@ a runner, hiker, sailor & sailing instructor, cyclist & bike mechanic, former ca
 </p>
 
 ## This is Philip:
-Philip is my cat. He was born in March 2023, roaming the streets of the SF Bay as a stray kitten before finding 
+Philip is my cat. He was born in March 2022, roaming the streets of the SF Bay as a stray kitten before finding 
 his forever home here. As a reward for you (reading through my entire website) here are some of the most hilarious photos 
 of King Philip.
 
