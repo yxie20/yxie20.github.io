@@ -12,7 +12,7 @@
   Yiheng  Xie
 
 
-  | blog
+  | Object-Oriented Latent Dynamics Graph
 
 </title>
 <meta name="description" content="Yiheng's personal website.
@@ -38,7 +38,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌎</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/projects/rw/">
 
 
 <!-- Dark Mode -->
@@ -99,8 +99,6 @@
           
           
           
-          
-          
           <li class="nav-item ">
               <a class="nav-link" href="/projects/">
                 Projects
@@ -116,7 +114,7 @@
           
           <li class="nav-item ">
               <a class="nav-link" href="/serve_lead/">
-                Service & Leadership
+                Service &amp; Leadership
                 
               </a>
           </li>
@@ -138,7 +136,7 @@
           
           <li class="nav-item ">
               <a class="nav-link" href="/nutrition_facts/">
-                Me & Philip
+                Me &amp; Philip
                 
               </a>
           </li>
@@ -146,8 +144,8 @@
           
           
           
-            <div class = "toggle-container">
-              <a id = "light-toggle">
+            <div class="toggle-container">
+              <a id="light-toggle">
                   <i class="fas fa-moon"></i>
                   <i class="fas fa-sun"></i>
               </a>
@@ -166,17 +164,29 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2>This is a blog.</h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">Object-Oriented Latent Dynamics Graph</h1>
+    <p class="post-description">Vision-based RL agent with an object-centric world model for ATARI games.</p>
+  </header>
 
+  <article>
+    <p>Keywords: interpretable planning, world model, Graph Neural Networks, vision-based agent, 
+VGDL, object-centric representation.</p>
 
-  <ul class="post-list">
-    
-  </ul>
+<p>From October 2020 - August 2021, I researched under the supervision of Professor Michael Littman, 
+I researched under the supervision of Professor <a href="https://www.littmania.com/" target="_blank" rel="noopener noreferrer">Micahel Littman</a> and 
+collaborated with graduate student <a href="http://mingxuan.me/" target="_blank" rel="noopener noreferrer">Mingxuan Li</a> at Brown 
+<a href="https://hcri.brown.edu/" target="_blank" rel="noopener noreferrer">Human-Centered Robotics Initiative</a>. 
+Our work, <em>Learning to Control via Object-Oriented Latent Dynamics Graph</em>, proposed a novel 
+vision-based and object-centric world model for RL agents. I proposed an unsupervised segmentation 
+and clustering computer vision algorithm for extracting object-oriented game dynamics. We used 
+<a href="https://github.com/MilesCranmer/PySR" target="_blank" rel="noopener noreferrer">PySR</a> (a symbolic regression engine) to replace black-box 
+Graph Neural Network components in our world model, so as to achieve with interpretable planning.</p>
 
-  
+<p>Unsupervised and object-centric segmentation and clustering:
+<img src="https://yxie20.github.io/assets/img/project_imgs/rw.gif"></p>
+
+  </article>
 
 </div>
 
