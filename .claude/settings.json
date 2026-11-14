@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Read(//home/yxie5/**)",
-      "Bash(gem env *)"
-    ]
-  }
-}
