@@ -8,7 +8,7 @@ nav: true
 ---
 Besides being a student and researcher, 
 #### I am also...
-a runner, hiker, sailor & sailing instructor, cyclist & bike mechanic, former cafeteria line cook, vegetarian 
+a runner, hiker, sailor, cyclist & bike mechanic, former cafeteria line cook, vegetarian 
 (who cheats too often), climate warrior, car enthusiast, pianist & chamber musician...
 
 #### If not found, try searching here:
